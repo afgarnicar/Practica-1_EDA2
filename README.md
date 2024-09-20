@@ -10,3 +10,5 @@ Caracteristicas de la maquina:
 
 IDE: IntelliJ
 Version: 21 Oracle OpenJDK version 21.0.2
+
+Enlace video:https://youtu.be/LcQqVnDwmws
